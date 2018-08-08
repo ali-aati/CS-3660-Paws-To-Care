@@ -8,7 +8,8 @@ http://localhost/CS-3660-Paws-To-Care/admin/
 
 username: admin
 password: admin
-http://localhost/CS-3660-Paws-To-Care/admin/
+
+---------------------------------------------
 
 Owner
 http://localhost/CS-3660-Paws-To-Care/pets.php
